@@ -1,2 +1,4 @@
 # Spam-Ham-Classifier
-A basic spam ham e-mail classifier
+# Links
+[Link to my supervised learning notebook](https://www.kaggle.com/code/cengizhanterziolu/supervised-spam-ham-classifier)
+[Link to my unsupervised learning notebook](https://www.kaggle.com/code/cengizhanterziolu/unsupervised-spam-ham-classifier)
